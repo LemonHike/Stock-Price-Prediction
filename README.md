@@ -1,1 +1,3 @@
-# This reposit contains the code that I developed and used to predict Alphabet Stock Price
+# Stock Price Prediction
+
+This repository contains the code that I developed for stock Price predictions. 
